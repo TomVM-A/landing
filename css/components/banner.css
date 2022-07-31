@@ -1,0 +1,10 @@
+.banner {
+  object-fit: cover;
+  color:white;
+  padding: 50px 30%;
+}
+
+
+.banner .container p{
+  color:white;
+}

@@ -1,0 +1,12 @@
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.container h2{
+  text-align: center;
+}
+
+.container p{
+  color:#4e4e4e;
+}
